@@ -38,7 +38,6 @@ let install = async () => {
 	loading.start();
 	let list = await (0, _git.repoList)();
 	loading.succeed();
-	console.log(list);
 	let answer = await _inquirer2.default.prompt([{
 		type: "list",
 		name: "project",

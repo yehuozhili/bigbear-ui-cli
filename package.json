@@ -11,7 +11,15 @@
 	"bin": {
 		"bigbear-ui-cli": "./bin/www"
 	},
-	"keywords": [],
+	"homepage": "https://yehuozhili.github.io/bigbear-ui/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yehuozhili/bigbear-ui-cli"
+	},
+	"keywords": [
+		"bigbear-ui cli",
+		"bigbear-ui"
+	],
 	"author": "yehuozhili",
 	"private": false,
 	"license": "MIT",
