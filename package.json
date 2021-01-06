@@ -28,7 +28,7 @@
 		"babel-env": "^2.4.1"
 	},
 	"dependencies": {
-		"axios": "^0.19.2",
+		"axios": "^0.21.1",
 		"commander": "^5.1.0",
 		"consolidate": "^0.15.1",
 		"download-git-repo": "^3.0.2",
